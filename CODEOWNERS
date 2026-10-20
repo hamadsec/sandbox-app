@@ -1,0 +1,5 @@
+# Owner review required everywhere; workflows and agent config are owner-only by policy.
+*                 @hamadsec
+/.github/**       @hamadsec
+/.claude/**       @hamadsec
+/.mcp.json        @hamadsec
