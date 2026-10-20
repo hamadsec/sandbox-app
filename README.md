@@ -11,3 +11,4 @@ This repository is **public** by design. Nothing secret ever belongs here.
 ## How changes arrive
 
 Agents work on the `verso-agents` fork and open pull requests here. Only the owner merges. Workflow files are owner-only.
+Verified by Onni (Engineer-1) on 2026-10-20.
