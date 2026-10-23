@@ -4,6 +4,10 @@ Throwaway static site used by Verso Labs to prove the agent delivery chain (fork
 
 This repository is **public** by design. Nothing secret ever belongs here.
 
+## About
+
+sandbox-app is a small, public demo app used by Verso Labs to exercise its fork/PR/CI flow: changes arrive as pull requests from a bot fork, CI checks them, and the owner reviews and merges. It is a throwaway static site — the delivery chain it exercises matters more than the code itself.
+
 ## Local run
 
     npx serve src   # or: python3 -m http.server --directory src 4100
